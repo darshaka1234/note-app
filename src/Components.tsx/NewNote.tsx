@@ -1,5 +1,5 @@
 const NewNote = () => {
-  return <div>NewNote</div>;
+	return <div>NewNote</div>;
 };
 
 export default NewNote;
